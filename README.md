@@ -5,8 +5,6 @@
 [![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![Discord](https://img.shields.io/discord/685554030159593522)](https://discord.com/widget?id=685554030159593522&theme=dark)
 
-*50 minutes, Intermediate, [Start Building](#1-login-or-register-to-astradb-and-create-database)*
-
 A simple **ReactJS** Netflix homepage clone running on *Astra DB* that leverages a GraphQL API with *paging* and *infinite scrolling.
 
 <!--- ENDEXCLUDE --->
